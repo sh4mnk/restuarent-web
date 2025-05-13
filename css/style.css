@@ -1,0 +1,30 @@
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+nav{
+    font-size: medium;
+    justify-content: center;
+}
+
+.button{
+    background:  #39DB4A;
+}
+.food{
+
+    color: #39DB4A;
+}
+.order-now{
+    background:  #39DB4A;
+
+}
+
+
+.home-image{
+
+    margin-left: 2px;
+}
