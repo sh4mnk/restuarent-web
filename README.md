@@ -8,7 +8,6 @@ This project is a static web design showcasing a clean layout for a food-based b
 ## 🚀 Features
 
 - 🧭 Clean navigation bar
-- 📱 Fully responsive layout
 - 🖼️ Hero section with background image
 - 📋 Menu section design
 - 🧾 About and Contact sections
